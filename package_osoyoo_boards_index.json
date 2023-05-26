@@ -1,0 +1,33 @@
+{
+  "packages": [
+    {
+      "name": "OSOYOO avr compatible boards",
+      "maintainer": "osoyoo.com",
+      "websiteURL": "https://osoyoo.com/2022/08/04/osoyoo-lgt-nano-board/",
+      "email": "support@osoyoo.com",
+      "help": {
+        "online": "www.osoyoo.com"
+      },
+      "platforms": [
+        {
+          "name": "OSOYOO AVR Compatible Boards",
+          "architecture": "avr",
+          "version": "2.0.0",
+          "category": "lgt8fx",
+          "url": "https://github.com/nulllaborg/arduino_nulllab/archive/master.zip",
+          "archiveFileName": "master.zip",
+          "help": {
+            "online": "https://osoyoo.com/2022/08/04/osoyoo-lgt-nano-board/"
+          },
+          "boards": [
+            {"name": "OSOYOO LGT-Mini"},
+            {"name": "OSOYOO LGT-Nano"},
+            {"name": "OSOYOO LGT-Uno"},
+            {"name": "DIY Boards"}
+          ]
+        },
+      ],
+      "tools": []
+    }
+  ]
+}
