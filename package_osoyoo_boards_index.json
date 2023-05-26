@@ -14,7 +14,7 @@
           "architecture": "avr",
           "version": "2.0.0",
           "category": "lgt8fx",
-          "url": "https://github.com/nulllaborg/arduino_nulllab/archive/master.zip",
+          "url": "https://github.com/osoyoo/OSOYOO_Arduino_v2.0/archive/master.zip",
           "archiveFileName": "master.zip",
           "help": {
             "online": "https://osoyoo.com/2022/08/04/osoyoo-lgt-nano-board/"
